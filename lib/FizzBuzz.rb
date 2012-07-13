@@ -6,6 +6,7 @@ class FizzBuzz
 
 
 
+
 	def MetodoFizz
 		if @valor=="3"
 			"Fizz"
@@ -13,6 +14,7 @@ class FizzBuzz
 			raise Exception.new	
 		end
 	end	
+
 
 
 	def MetodoBuzz
